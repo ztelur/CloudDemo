@@ -1,0 +1,5 @@
+META-INF/spring-configuration-metadata.json
+starter/StorageService.class
+starter/EnableStorage.class
+starter/StorageServiceProperties.class
+starter/StorageAutoConfigure.class
